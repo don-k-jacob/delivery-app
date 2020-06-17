@@ -170,7 +170,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		1Fc5xqNe2YtCWa1qqUi5OTwd76w=
+		IuO23Ii8yuX8WKD4viwl9wRS818=
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
@@ -211,10 +211,6 @@
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
 		W4v+YlroD8+v27M4zKa/3r9eqdA=
-		</data>
-		<key>GoogleService-Info.plist</key>
-		<data>
-		qH0KbW5zRVTJ0jbUKw9bLuzVFg0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -682,11 +678,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1Fc5xqNe2YtCWa1qqUi5OTwd76w=
+			IuO23Ii8yuX8WKD4viwl9wRS818=
 			</data>
 			<key>hash2</key>
 			<data>
-			KyJEb40MtfyrDd6ZbxFCkiFdewaiJG7t+RLFAx2NvIA=
+			4cbObvzZPFSmq43PPKxMNoSzhy5q6D/DGqP2HiS/jac=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
@@ -797,17 +793,6 @@
 			<key>hash2</key>
 			<data>
 			zLWBGbdbTQk6chVChX0c8CFwhq8ogd9K00QEU5AufEY=
-			</data>
-		</dict>
-		<key>GoogleService-Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qH0KbW5zRVTJ0jbUKw9bLuzVFg0=
-			</data>
-			<key>hash2</key>
-			<data>
-			UA4KrL5/VKCbrvjh0iBFKwnaHCYclnGHSgVN1LBLjIw=
 			</data>
 		</dict>
 	</dict>
