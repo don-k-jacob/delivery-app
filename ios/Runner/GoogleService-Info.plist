@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585357651917-elp51t7t6j5dh2o5vl3jg1fqdnmucrgk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585357651917-elp51t7t6j5dh2o5vl3jg1fqdnmucrgk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLHzZGFDHkfWh_a-Ehpft5orNsSVZ_GoU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585357651917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tatos.delivryapp</string>
+	<key>PROJECT_ID</key>
+	<string>delivery-app-8e949</string>
+	<key>STORAGE_BUCKET</key>
+	<string>delivery-app-8e949.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585357651917:ios:1131dc997dbd4ae1af5e84</string>
+	<key>DATABASE_URL</key>
+	<string>https://delivery-app-8e949.firebaseio.com</string>
+</dict>
+</plist>
